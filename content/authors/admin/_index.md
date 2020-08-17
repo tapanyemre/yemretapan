@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yunus Emre Tapan
 
 # Username (this should match the folder name)
 authors:
-- admin
+- yemretapan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in International Relations
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Kadir Has University
+  url: "https://www.khas.edu.tr/tr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I research on Computational Social Science, Comparative Politics, and International Relations. Specifically, I focus on radical, extremist and terrorist movements in online sphere. I use computational text analysis and social network analysis to explore and understand online communities. I am extensively employing web scraping and data extraction methods from social media platforms. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Social Science
+- International Relations
+- Comparative Politics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in International Relations
+    institution: Kadir Has University
+    year: 2019 - 
+  - course: MA in Middle East Studies
+    institution: Middle Eastern Technical University
+    year: 2019
+  - course: BA in Economics
+    institution: Bogazici University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:tapanyemre@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/t_yemre
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tapanyemre
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I research on Computational Social Science, Comparative Politics, and International Relations. Specifically, I focus on radical, extremist and terrorist movements in online sphere. I use computational text analysis and social network analysis to explore and understand online communities. I am extensively employing web scraping and data extraction methods from social media platforms. 
