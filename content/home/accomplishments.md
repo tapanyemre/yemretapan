@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Additional&Trainings"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "ICPSR Summer Program in Quantitative Methods"
+  organization_url = "https://www.icpsr.umich.edu/icpsrweb/sumprog/"
+  title = "Advanced Network Analysis, Data Science and Text Analysis, and Causal Inference in Social Sciences"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2020-07-17"
+  date_end = "2020-08-15"
+  description = "The ICPSR Summer Program provides rigorous, hands-on training in statistical techniques, research methodologies, and data analysis."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Polnet+"
+  organization_url = "https://www.polver.uni-konstanz.de/en/vschneider/polnet/programm/sommerakademie-2020/"
+  title = "Comparing Networks"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-29"
+  date_end = "2020-05-30"
+  description = "The 2020 edition of the POLNET+ summer school on advanced social network analysis will focus on comparative methods for network analysis from the sociological and political science perspectives."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "SICSS-Helsinki"
+  organization_url = "https://compsocialscience.github.io/summer-institute/2018/helsinki/"
+  title = "Summer Institute in Computational Social Science"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2018-06-18"
+  date_end = "2018-06-29"
+  description = "The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science."
 
 +++
