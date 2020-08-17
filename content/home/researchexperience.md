@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Ankara"
   date_start = "2016-11-01"
   date_end = "2018-07-01"
-  description = """An Independent think-tank focusing on Middle Eastern Politics"""
+  description = """An Independent think-tank focusing on Middle Eastern Politics
   Responsibilities include:
   
   * Monitoring Online Extremism
