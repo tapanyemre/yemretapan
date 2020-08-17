@@ -18,20 +18,27 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Advanced"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-network"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Network Analysis"
+  description = "Advanced"
 
+[[feature]]
+  icon = "text-width"
+  icon_pack = "fas"
+  name = "Text Analysis"
+  description = "Advanced"
+  
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
