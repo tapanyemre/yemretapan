@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Istanbul"
   date_start = "2019-10-01"
   date_end = ""
-  description = """
+  description = """"""
   
 [[item]]
   title = "Research Assistant"
