@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,28 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+
+[[research experience]]
+  title = "Researcher PhD Student"
+  company = "Kadir Has University"
+  company_url = "https://www.khas.edu.tr/en"
+  location = "Istanbul"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
+  
+[[research experience]]
+  title = "Research Assistant"
+  company = "Center for Middle Eastern Strategic Studies"
+  company_url = "https://www.orsam.org.tr/"
+  location = "Ankara"
+  date_start = "2016-11-01"
+  date_end = "2018-07-01"
+  description = """An Independent think-tank focusing on Middle Eastern Politics"""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Monitoring Online Extremism
+  * Data Analysis (both qualitative and quantitative)
+  * Preparing Policy Briefs 
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
