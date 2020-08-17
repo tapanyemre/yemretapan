@@ -19,6 +19,18 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "Advanced"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = "Advanced"
+  
+ [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"
@@ -27,7 +39,7 @@ subtitle = ""
   description = "Advanced"  
   
 [[feature]]
-  icon = "chart-network"
+  icon = "project-diagram"
   icon_pack = "fas"
   name = "Network Analysis"
   description = "Advanced"
