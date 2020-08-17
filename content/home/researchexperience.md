@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[research experience]]
+[[experience]]
   title = "Researcher PhD Student"
   company = "Kadir Has University"
   company_url = "https://www.khas.edu.tr/en"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-[[research experience]]
+[[experience]]
   title = "Research Assistant"
   company = "Center for Middle Eastern Strategic Studies"
   company_url = "https://www.orsam.org.tr/"
