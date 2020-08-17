@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Additional&Trainings"
+title = "Additional Trainings"
 subtitle = ""
 
 # Date format
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-05-29"
-  date_end = "2020-05-30"
+  date_end = ""
   description = "The 2020 edition of the POLNET+ summer school on advanced social network analysis will focus on comparative methods for network analysis from the sociological and political science perspectives."
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-06-18"
-  date_end = "2018-06-29"
+  date_end = ""
   description = "The purpose of the Summer Institute is to bring together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science."
 
 +++
