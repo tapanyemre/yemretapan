@@ -1,6 +1,6 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "Research Experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
+[[item]]
   title = "Researcher PhD Student"
   company = "Kadir Has University"
   company_url = "https://www.khas.edu.tr/en"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-[[experience]]
+[[item]]
   title = "Research Assistant"
   company = "Center for Middle Eastern Strategic Studies"
   company_url = "https://www.orsam.org.tr/"
