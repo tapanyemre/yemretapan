@@ -3,8 +3,7 @@
 title: Yunus Emre Tapan
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,9 +64,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I research on Computational Social Science, Comparative Politics, and International Relations. Specifically, I focus on radical, extremist and terrorist movements in online sphere. I use computational text analysis and social network analysis to explore and understand online communities. I am extensively employing web scraping and data extraction methods from social media platforms. 
