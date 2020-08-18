@@ -4,7 +4,7 @@ title: Yunus Emre Tapan
 
 # Username (this should match the folder name)
 authors:
-- yemretapan
+- admin
 
 # Is this the primary user of the site?
 superuser: true
